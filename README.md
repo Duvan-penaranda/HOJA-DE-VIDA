@@ -8,4 +8,9 @@ hoja de vida
 |Cedula|1231234534|
 |nombre|juan alberto|
 
+## ESTUDIOS
+
+|IED CARRIZAL|
+|------------|
+|UNIVERSIDAD DEL NORTE|
 
