@@ -7,6 +7,7 @@ hoja de vida
 |-----|-----------|
 |Cedula|1231234534|
 |nombre|juan alberto|
+|correo|juanalberto777@gmail.com|
 
 ## ESTUDIOS
 
